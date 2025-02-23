@@ -246,6 +246,7 @@ body {
     border: none;
     outline: none;
     border-bottom: 1px solid #ccc;
+    background: transparent;
 }
 
 .contactSection p input::placeholder {
