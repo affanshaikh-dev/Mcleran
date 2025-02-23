@@ -61,7 +61,7 @@ body {
 
 /* hero section styling ****************************** */
 .heroSection {
-    background: url('img/bg-hero.png') no-repeat center center/cover;
+    background: url('bg-hero.png') no-repeat center center/cover;
     background-attachment: fixed;
     height: 65vh;
     display: flex;
